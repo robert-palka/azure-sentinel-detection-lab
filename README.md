@@ -2,7 +2,7 @@
 
 > **Status: planned.** This repository will fill up as the lab is built.
 
-Phase 2 of my home lab: a detection and response lab in Microsoft Azure, built on Microsoft Sentinel, Microsoft Defender XDR and Microsoft Entra ID. Phase 1 built the same skills on a self-hosted Elastic SIEM; this phase moves them to the Microsoft security stack, the platform named most often in Swiss SOC and detection-engineering job ads.
+Phase 3 of my home lab: a detection and response lab in Microsoft Azure, built on Microsoft Sentinel, Microsoft Defender XDR and Microsoft Entra ID. Phase 1 built the same skills on a self-hosted Elastic SIEM; this phase moves them to the Microsoft security stack.
 
 ## Planned scope
 
